@@ -25,8 +25,9 @@ from web_image_scraper import download_images
 ```
 url = "https://www.example.com"
 download_images(url)
-The script also includes options to customize the scrolling speed, wait time, and other parameters. You can find more information about these options in the documentation.
 ```
+
+The script also includes options to customize the scrolling speed, wait time, and other parameters. You can find more information about these options in the documentation.
 
 ## Contributing
 
